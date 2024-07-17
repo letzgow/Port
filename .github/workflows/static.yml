@@ -1,0 +1,35 @@
+<body>
+    <header>
+        <h1>Portfólio de Artesanatos de Kitbashing</h1>
+    </header>
+    <div class="container">
+        <div class="sidebar">
+            <h1>Kitbashing</h1>
+            <p>Artesanatos manuais de kitbashing. Trabalhos realizados entre 2020 - 2022.</p>
+        </div>
+        <div class="content">
+            <div class="product">
+                <img src="image_2_1.png" alt="Kitbashing 1">
+            </div>
+            <div class="product">
+                <img src="image_2_2.png" alt="Kitbashing 2">
+            </div>
+            <div class="product">
+                <img src="image_3_1.png" alt="Kitbashing 3">
+            </div>
+            <div class="product">
+                <img src="image_3_2.png" alt="Kitbashing 4">
+            </div>
+            <div class="product">
+                <img src="image_4_1.png" alt="Kitbashing 5">
+            </div>
+            <div class="product">
+                <img src="image_4_2.png" alt="Kitbashing 6">
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Leticia Oliveira. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
